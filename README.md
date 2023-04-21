@@ -1,5 +1,4 @@
-# Crypto
-# Chương trình của một số hệ mật:
+# Crypto: Chương trình của một số hệ mật:
 - Caesar
 - Subtitution
 - Affine
